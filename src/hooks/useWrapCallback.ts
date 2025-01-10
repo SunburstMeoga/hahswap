@@ -1,4 +1,4 @@
-import { Currency, currencyEquals, ETHER, WETH } from 'hahswap-sdk'
+import { Currency, currencyEquals, ETHER, WETH } from 'hahswapv2-sdk'
 import { useMemo } from 'react'
 import { tryParseAmount } from '../state/swap/hooks'
 import { useTransactionAdder } from '../state/transactions/hooks'

@@ -1,4 +1,4 @@
-import { Currency, ETHER, Token } from 'hahswap-sdk'
+import { Currency, ETHER, Token } from 'hahswapv2-sdk'
 import React, { useMemo } from 'react'
 import styled from 'styled-components'
 

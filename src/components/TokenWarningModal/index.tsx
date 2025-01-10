@@ -1,4 +1,4 @@
-import { Token } from 'hahswap-sdk'
+import { Token } from 'hahswapv2-sdk'
 import { transparentize } from 'polished'
 import React, { useCallback, useMemo, useState } from 'react'
 import styled from 'styled-components'

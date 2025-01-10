@@ -1,9 +1,9 @@
-import { ChainId, JSBI, Percent, Token, WETH } from 'hahswap-sdk'
+import { ChainId, JSBI, Percent, Token, WETH } from 'hahswapv2-sdk'
 import { AbstractConnector } from '@web3-react/abstract-connector'
 
 import { fortmatic, injected, portis, walletconnect, walletlink } from '../connectors'
 
-export const ROUTER_ADDRESS = '0x9eEeacbFd4919F3fFFEd4b8616651615196a2cEF'
+export const ROUTER_ADDRESS = '0xB02e07669878a1FAab3db0c13916d8f8940A20A4'
 
 // a list of tokens by chain
 type ChainTokenList = {

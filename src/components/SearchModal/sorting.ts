@@ -1,4 +1,4 @@
-import { Token, TokenAmount } from 'hahswap-sdk'
+import { Token, TokenAmount } from 'hahswapv2-sdk'
 import { useMemo } from 'react'
 import { useAllTokenBalances } from '../../state/wallet/hooks'
 

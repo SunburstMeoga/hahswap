@@ -7849,6 +7849,19 @@ hahswap-sdk@^1.0.0:
     tiny-warning "^1.0.3"
     toformat "^2.0.0"
 
+hahswapv2-sdk@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.npmjs.org/hahswapv2-sdk/-/hahswapv2-sdk-1.0.0.tgz#4d34261227ff791c422e727c34b90605b9c01a11"
+  integrity sha512-k6FIpOYDt2fkT/2AO7zl7b/7BO1sZrHpTCBEJrS1ZOBIbC6/mxBUTAWh0vsHWcyzZD7J6nAEYJJo16WiG3jqww==
+  dependencies:
+    "@uniswap/v2-core" "^1.0.0"
+    big.js "^5.2.2"
+    decimal.js-light "^2.5.0"
+    jsbi "^3.1.1"
+    tiny-invariant "^1.1.0"
+    tiny-warning "^1.0.3"
+    toformat "^2.0.0"
+
 handle-thing@^2.0.0:
   version "2.0.1"
   resolved "https://registry.yarnpkg.com/handle-thing/-/handle-thing-2.0.1.tgz#857f79ce359580c340d43081cc648970d0bb234e"

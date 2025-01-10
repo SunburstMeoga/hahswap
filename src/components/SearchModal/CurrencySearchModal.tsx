@@ -1,4 +1,4 @@
-import { Currency } from 'hahswap-sdk'
+import { Currency } from 'hahswapv2-sdk'
 import React, { useCallback, useEffect, useState } from 'react'
 import ReactGA from 'react-ga'
 import useLast from '../../hooks/useLast'

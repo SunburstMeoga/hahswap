@@ -1,4 +1,4 @@
-import { Trade, TradeType } from 'hahswap-sdk'
+import { Trade, TradeType } from 'hahswapv2-sdk'
 import React, { useContext, useMemo } from 'react'
 import { ArrowDown, AlertTriangle } from 'react-feather'
 import { Text } from 'rebass'

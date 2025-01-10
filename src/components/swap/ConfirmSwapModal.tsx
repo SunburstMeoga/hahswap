@@ -1,4 +1,4 @@
-import { currencyEquals, Trade } from 'hahswap-sdk'
+import { currencyEquals, Trade } from 'hahswapv2-sdk'
 import React, { useCallback, useMemo } from 'react'
 import TransactionConfirmationModal, {
   ConfirmationModalContent,

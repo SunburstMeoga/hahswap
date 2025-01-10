@@ -1,4 +1,4 @@
-import { Trade, TradeType } from 'hahswap-sdk'
+import { Trade, TradeType } from 'hahswapv2-sdk'
 import React, { useContext } from 'react'
 import { ThemeContext } from 'styled-components'
 import { Field } from '../../state/swap/actions'

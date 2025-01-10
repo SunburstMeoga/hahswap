@@ -1,4 +1,4 @@
-import { ChainId } from 'hahswap-sdk'
+import { ChainId } from 'hahswapv2-sdk'
 import React, { useContext } from 'react'
 import styled, { ThemeContext } from 'styled-components'
 import Modal from '../Modal'

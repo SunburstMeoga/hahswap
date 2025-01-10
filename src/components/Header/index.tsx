@@ -1,4 +1,4 @@
-import { ChainId } from 'hahswap-sdk'
+import { ChainId } from 'hahswapv2-sdk'
 import React from 'react'
 import { isMobile } from 'react-device-detect'
 import { Text } from 'rebass'

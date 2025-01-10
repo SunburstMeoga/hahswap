@@ -1,4 +1,4 @@
-import { Currency, Percent, Price } from 'hahswap-sdk'
+import { Currency, Percent, Price } from 'hahswapv2-sdk'
 import React, { useContext } from 'react'
 import { Text } from 'rebass'
 import { ThemeContext } from 'styled-components'

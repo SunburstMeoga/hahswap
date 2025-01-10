@@ -1,4 +1,4 @@
-import { Currency } from 'hahswap-sdk'
+import { Currency } from 'hahswapv2-sdk'
 import React from 'react'
 import styled from 'styled-components'
 import CurrencyLogo from '../CurrencyLogo'

@@ -1,4 +1,4 @@
-import { Currency, ETHER, Token } from 'hahswap-sdk'
+import { Currency, ETHER, Token } from 'hahswapv2-sdk'
 
 export function currencyId(currency: Currency): string {
   if (currency === ETHER) return 'ETH'

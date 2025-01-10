@@ -1,4 +1,4 @@
-import { ChainId } from 'hahswap-sdk'
+import { ChainId } from 'hahswapv2-sdk'
 import MULTICALL_ABI from './abi.json'
 
 const MULTICALL_NETWORKS: { [chainId in ChainId]: string } = {
@@ -7,7 +7,8 @@ const MULTICALL_NETWORKS: { [chainId in ChainId]: string } = {
   [ChainId.KOVAN]: '0x2cc8688C5f75E365aaEEb4ea8D6a480405A48D2A',
   [ChainId.RINKEBY]: '0x42Ad527de7d4e9d9d011aC45B31D8551f8Fe9821',
   [ChainId.GÖRLI]: '0x77dCa2C955b15e9dE4dbBCf1246B4B85b651e50e',
-  [ChainId.HAH]: '0xa5Bc4C7cdeE1B86d8DC58016E5C163362EB43B7E'
+  // [ChainId.HAH]: '0xa5Bc4C7cdeE1B86d8DC58016E5C163362EB43B7E'
+  [ChainId.HAH]: '0xD25D03CdEF07468Bd4c24cc3C27BB2b122Ea82B1'
 }
 
 export { MULTICALL_ABI, MULTICALL_NETWORKS }

@@ -1,4 +1,4 @@
-import { CurrencyAmount, ETHER, JSBI } from 'hahswap-sdk'
+import { CurrencyAmount, ETHER, JSBI } from 'hahswapv2-sdk'
 import { MIN_ETH } from '../constants'
 
 /**
